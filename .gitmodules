@@ -1,0 +1,12 @@
+[submodule "bats"]
+	path = bats
+	url = https://github.com/askalee/bats.git
+[submodule "bats-assert"]
+	path = bats-assert
+	url = https://github.com/askalee/bats-assert-1.git
+[submodule "bats-support"]
+	path = bats-support
+	url = https://github.com/askalee/bats-support.git
+[submodule "bash-shell-mock"]
+	path = bash-shell-mock
+	url = https://github.com/askalee/bash_shell_mock.git
